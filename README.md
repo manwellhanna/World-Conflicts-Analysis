@@ -1,1 +1,1 @@
-# CompVi2
+# CompViz2
